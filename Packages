@@ -1,0 +1,16 @@
+
+Package: com.sergy.immortalizer
+Version: 2.0.0-1
+Architecture: iOS Rootless
+Maintainer: ABDALLAH-515
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Conflicts: التعارضات
+Filename: debs/com.sergy.immortalizer_2.0.0-1_iphoneos-arm64
+Size: 42.83 Kb
+MD5sum: 8f6405e45964acc33f58843a3b294f51
+SHA1: 754472d826343cdd06d3e705e8e10e2d0d559bdf
+SHA256: 1995eb6f6c93ed800d2e4e3fd808be55310b0fac2aeaf3d6efd197b3f1d8460e
+Section: Tweaks
+Depiction: https://www.facebook.com/anir.lybya
+Name: immortalizer
+
